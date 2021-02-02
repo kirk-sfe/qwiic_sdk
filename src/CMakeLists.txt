@@ -2,7 +2,7 @@
 # Add components and libraries of the SparkFun SDK to the build environment
 
 
-add_subdirectory(qwiic_i2c)
+add_subdirectory(qwiic_core)
 add_subdirectory(qwiic_bme280/src)
 add_subdirectory(qwiic_ccs811/src)
 add_subdirectory(qwiic_rfid/src)
