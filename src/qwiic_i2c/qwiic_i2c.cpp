@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "pico/stdlib.h"
-#include "sparkfun/qwiic_i2c.h"
+#include "qwiic_i2c.h"
 
 
 // Pre launch - the Pico board didn't have defines for default I2C values
