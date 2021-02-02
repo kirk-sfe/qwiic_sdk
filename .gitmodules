@@ -1,3 +1,6 @@
 [submodule "src/qwiic_joystick"]
 	path = src/qwiic_joystick
 	url = git@github.com:kirk-sfe/qwiic_joystick.git
+[submodule "src/qwiic_ccs811"]
+	path = src/qwiic_ccs811
+	url = git@github.com:kirk-sfe/qwiic_ccs811.git
