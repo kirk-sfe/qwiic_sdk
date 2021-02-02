@@ -25,3 +25,6 @@
 [submodule "src/qwiic_ak975x"]
 	path = src/qwiic_ak975x
 	url = git@github.com:kirk-sfe/qwiic_ak975x.git
+[submodule "src/qwiic_uoled"]
+	path = src/qwiic_uoled
+	url = git@github.com:kirk-sfe/qwiic_uoled.git
