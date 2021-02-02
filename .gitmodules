@@ -19,3 +19,6 @@
 [submodule "src/qwiic_keypad"]
 	path = src/qwiic_keypad
 	url = git@github.com:kirk-sfe/qwiic_keypad.git
+[submodule "src/qwiic_relay"]
+	path = src/qwiic_relay
+	url = git@github.com:kirk-sfe/qwiic_relay.git
