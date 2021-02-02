@@ -25,3 +25,6 @@
 [submodule "src/qwiic_vcnl4040"]
 	path = src/qwiic_vcnl4040
 	url = git@github.com:kirk-sfe/qwiic_vcnl4040.git
+[submodule "src/qwiic_ak975x"]
+	path = src/qwiic_ak975x
+	url = git@github.com:kirk-sfe/qwiic_ak975x.git
