@@ -7,3 +7,6 @@
 [submodule "src/qwiic_uoled"]
 	path = src/qwiic_uoled
 	url = git@github.com:kirk-sfe/qwiic_uoled.git
+[submodule "src/qwiic_bme280"]
+	path = src/qwiic_bme280
+	url = git@github.com:kirk-sfe/qwiic_bme280.git
