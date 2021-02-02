@@ -13,3 +13,6 @@
 [submodule "src/qwiic_rfid"]
 	path = src/qwiic_rfid
 	url = git@github.com:kirk-sfe/qwiic_rfid.git
+[submodule "src/qwiic_twist"]
+	path = src/qwiic_twist
+	url = git@github.com:kirk-sfe/qwiic_twist.git
