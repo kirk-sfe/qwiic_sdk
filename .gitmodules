@@ -10,3 +10,6 @@
 [submodule "src/qwiic_bme280"]
 	path = src/qwiic_bme280
 	url = git@github.com:kirk-sfe/qwiic_bme280.git
+[submodule "src/qwiic_rfid"]
+	path = src/qwiic_rfid
+	url = git@github.com:kirk-sfe/qwiic_rfid.git
