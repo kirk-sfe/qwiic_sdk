@@ -4,3 +4,6 @@
 [submodule "src/qwiic_ccs811"]
 	path = src/qwiic_ccs811
 	url = git@github.com:kirk-sfe/qwiic_ccs811.git
+[submodule "src/qwiic_uoled"]
+	path = src/qwiic_uoled
+	url = git@github.com:kirk-sfe/qwiic_uoled.git
