@@ -7,11 +7,14 @@
 // NOTE: THIS HEADER IS ALSO INCLUDED BY ASSEMBLER SO
 //       SHOULD ONLY CONSIST OF PREPROCESSOR DIRECTIVES
 // -----------------------------------------------------
-
+//
+//------------------------------------------------------------------------------------------
+// Board definition for the SparkFun rp2040 MicroMod processor board
+//
 // This header may be included by other board headers as "boards/sparkfun_promicro.h"
 
-#ifndef _BOARDS_SPARKFUN_PROMICRO_H
-#define _BOARDS_SPARKFUN_PROMICRO_H
+#ifndef _BOARDS_SPARKFUN_MICROMOD_H
+#define _BOARDS_SPARKFUN_MICROMOD_H
 
 #define PICO_DEFAULT_UART 0
 
@@ -19,7 +22,6 @@
 
 #define PICO_DEFAULT_UART_RX_PIN 1
 
-// The PRO Micro doesnt have a plain LED, but a WS2812. This is the PIN for the WS2812
 #define PICO_DEFAULT_LED_PIN 25
 
 
@@ -30,8 +32,8 @@
 
 // spi flash
 #define PICO_FLASH_SPI_CLKDIV 2
-#define PICO_FLASH_SIZE_BYTES (16 * 1024 * 1024)
 
+#define PICO_FLASH_SIZE_BYTES (16 * 1024 * 1024)
 
 //////////////////////////
 // brining over from pico.h  - need to verify...
